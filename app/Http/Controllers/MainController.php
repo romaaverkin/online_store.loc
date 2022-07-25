@@ -30,4 +30,9 @@ class MainController extends Controller
             'product' => $product,
         ]);
     }
+
+    public function basket()
+    {
+        return view('basket');
+    }
 }

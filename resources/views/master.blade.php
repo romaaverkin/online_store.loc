@@ -25,7 +25,7 @@
                 <li class="active"><a href="http://laravel-diplom-1.rdavydov.ru">Все товары</a></li>
                 <li><a href="/categories">Категории</a>
                 </li>
-                <li><a href="http://laravel-diplom-1.rdavydov.ru/basket">В корзину</a></li>
+                <li><a href="/basket">В корзину</a></li>
                 <li><a href="http://laravel-diplom-1.rdavydov.ru/reset">Сбросить проект в начальное состояние</a></li>
             </ul>
 
